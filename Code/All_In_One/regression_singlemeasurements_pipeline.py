@@ -169,7 +169,7 @@ print('\nDataset size before cleaning (#rows,#columns): ', dataset.shape)
 print('\n>>> Step 1: Data cleaning\n')
 
 # remove rows with missing values and reset the row index
-dataset.dropna(ignore_index=True)
+dataset = dataset.dropna(ignore_index=True)
 
 # find duplicate rows
 dups = dataset.duplicated()
@@ -243,6 +243,9 @@ le = LabelEncoder()
 col_list = dataset.select_dtypes(include = "object").columns
 for colsn in col_list:
     dataset[colsn] = le.fit_transform(dataset[colsn].astype(str))
+
+# remove rows with missing values
+#dataset = dataset.dropna()
 
 # save clean dataset to a file
 dataset.to_csv(output_directory + '/clean_dataset.csv', index=False)
