@@ -1,0 +1,395 @@
+HEART_GIRTH,BODY_LENGTH,AGE_MONTHS,SEX,DISTRICT,VILLAGE,WEIGHT_KG_BY_SCALE
+118,137,24,Female,Mbeya,Mshewe,91
+69,95,6,Female,Mbeya,Njelenje,33
+65,97,8,Female,Mbeya,Njelenje,26
+66,71,9,Female,Mbeya,Njelenje,20
+72,90,12,Male,Mbeya,Njelenje,37
+67,93,17,Female,Mbeya,Njelenje,34
+78,89,12,Female,Mbeya,Njelenje,42.5
+80,90,8,Male,Mbeya,Mjele,37
+61,74,7,Female,Mbeya,Mjele,23
+60,80,8,Female,Mbeya,Mjele,25
+86,115,14,Female,Mbeya,Mjele,59
+80,94,9,Male,Mbeya,Mjele,42
+72,91,8,Female,Mbeya,Mjele,29
+70,90,12,Female,Mbeya,Mjele,28
+55,69,8,Female,Mbeya,Mjele,17
+76,86,8,Female,Mbeya,Mjele,31
+71,79,8,Female,Mbeya,Mjele,39
+63,78,8,Female,Mbeya,Mjele,20
+57,62,8,Female,Mbeya,Mjele,18
+68,80,8,Female,Mbeya,Mjele,26
+52,70,6,Female,Mbeya,Mjele,14
+63.5,78,10,Male,Mbeya,Mjele,25
+73,84,7,Male,Mbeya ,Izuo,38
+68,76,7,Female,Mbeya,Mjele,29
+72,78,9,Male,Mbeya,Mjele,38
+91,104,16,Female,Mbeya,Mjele,63
+72,86,8,Female,Mbeya,Mjele,38
+56,75,10,Male,Mbeya,Mjele,19
+59,72,6,Female,Mbeya,Mjele,20
+55,57,6,Female,Mbeya,Mjele,17
+69,81,6,Female,Mbeya,Mjele,31
+83,86,7,Female,Mbeya,Mjele,44
+53,80,8,Female,Mbeya,Mjele,13
+68,74,8,Female,Mbeya,Mjele,24
+70,86,8,Female,Mbeya,Isangati,30
+73,91,8,Female,Mbeya,Isangati,30
+66,82,8,Male,Mbeya,Isangati,30
+66,81,8,Female,Mbeya,Isangati,27
+67,87,9,Male,Mbeya,Mjele,24
+79,96,7,Female,Mbeya,Mjele,50
+73.5,93,7,Male,Mbeya,Mjele,35
+79,95,7,Female,Mbeya,Mjele,40
+70,96,9,Female,Mbeya,Mjele,28
+68.5,84,7,Female,Mbeya,Mjele,23
+65,75,14,Female,Mbeya,Isangati,24
+59,65,7,Male,Mbeya,Isangati,18
+56,71,7,Female,Mbeya,Isangati,18
+74,83,10,Male,Mbeya,Isangati,40
+67,87,9,Male,Mbeya,Isangati,25
+74,84,9,Female,Mbeya,Isangati,40
+63,87,7,Female,Mbeya,Isangati,26
+59,78,7,Female,Mbeya,Isangati,23
+69,80,8,Female,Mbeya,Isangati,33
+64,72,7,Male,Mbeya,Isangati,26
+67,83,7,Female,Mbeya,Isangati,27
+71,81,7,Female,Mbeya,Isangati,38
+62,72,7,Female,Mbeya,Isangati,28
+71,82,10,Female,Mbeya,Isangati,33
+80,99,11,Male,Mbeya,Iyunga Mapinduzi,42
+71,91,11,Male,Mbeya,Iyunga Mapinduzi,32
+68,78,11,Female,Mbeya,Iyunga Mapinduzi,25
+73,89,10,Female,Mbeya,Iyunga Mapinduzi,39
+78,89,11,Female,Mbeya,Iyunga Mapinduzi,37
+64,59,7,Female,Mbeya,Iyunga Mapinduzi,22
+68,78,7,Female,Mbeya,Iyunga Mapinduzi,32
+65,76,8,Male,Mbeya,Isangati,30
+69,87,7,Female,Mbeya,Isangati,32
+58.5,66,6.5,Male,Mbeya,Isangati,22
+63,71,6.5,Female,Mbeya,Isangati,23
+64.5,71,6.5,Male,Mbeya,Isangati,27
+59.5,68,6.5,Male,Mbeya,Isangati,23
+62,75,6.5,Male,Mbeya,Iyunga Mapinduzi,25
+66,89,6.5,Female,Mbeya,Iyunga Mapinduzi,27
+58,69,7,Male,Mbeya,Iyunga Mapinduzi,17.5
+55.5,71,7,Male,Mbeya,Iyunga Mapinduzi,15
+54,72,7,Female,Mbeya,Iyunga Mapinduzi,18
+59,79,8,Male,Mbeya,Iyunga Mapinduzi,23
+53,70,7,Female,Mbeya,Iyunga Mapinduzi,17
+57,72,7,Female,Mbeya,Iyunga Mapinduzi,20
+74,96,12,Male,Mbeya,Iyunga Mapinduzi,38
+76,67,7,Female,Mbeya,Iyunga Mapinduzi,34
+70,81,8,Female,Mbeya,Iyunga Mapinduzi,32
+66,78,8,Female,Mbeya ,Izuo,27
+70,81,8,Female,Mbeya ,Izuo,30
+58,69,8,Male,Mbeya ,Izuo,20
+67,74,8,Female,Mbeya ,Izuo,29
+84,99,12,Female,Mbeya,Izuo,47
+58,67,4,Female,Mbeya,Iyunga Mapinduzi,20
+72,89,8,Male,Mbeya ,Izuo,37
+68,81,16,Male,Mbeya ,Izuo,36
+62,78,8,Female,Mbeya ,Izuo,23
+63,76,8,Male,Mbeya ,Izuo,25
+68,87,9,Female,Mbeya ,Izuo,29
+63,59,7,Female,Mbeya,Shuwa,23
+62,89,7,Female,Mbeya,Shuwa,26
+69,79,7,Male,Mbeya,Shuwa,30
+62,69,7,Male,Mbeya,Shuwa,24
+55,58,7,Male,Mbeya,Shuwa,19
+61,78,7,Male,Mbeya,Shuwa,23
+68,77,12,Female,Mbozi,Itepula,25
+66,76,12,Male,Mbozi,Itepula,26
+51,58,4,Female,Mbeya,Iyunga Mapinduzi,15
+55,71,4,Male,Mbeya,Iyunga Mapinduzi,18
+64,79,12,Female,Mbeya,Shuwa,26
+103,114,6,Female,Mbeya,Shuwa,23
+75,82,8,Male,Mbeya,Shuwa,36
+78,95,22,Female,Mbozi,Itepula,44
+83,104,22,Female,Mbozi,Itepula,55
+63,82,12,Female,Mbozi,Itepula,27
+59,66,12,Male,Mbozi,Itepula,21
+58,66,12,Male,Mbozi,Itepula,17
+71,84,12,Female,Mbozi,Itepula,31
+52,59,8,Female,Mbozi,Itepula,13
+55,60,4,Male,Mbozi,Itepula,14.5
+57,63,10,Female,Mbozi,Itepula,17
+65,72,10,Male,Mbozi,Itepula,26
+63,81,9,Female,Mbozi,Itepula,24
+69,89,6,Female,Mbozi,Itepula,29.5
+99,99,22,Female,Mbozi,Itepula,70
+67,79,8,Female,Mbozi,Itepula,25
+89,97,9,Female,Mbeya,Shuwa,59
+71,86,16,Female,Mbozi ,Itepula,27
+64,78,12,Male,Mbozi,Itepula,22
+70,82,19,Female,Mbozi,Itepula,30
+67,81,16,Female,Mbozi ,Itepula,34
+73,95,12,Female,Mbozi ,Itepula,37
+59,72,12,Female,Mbozi ,Itepula,22
+64,79,9,Female,Mbozi,Itepula,21
+59,74,10,Female,Mbozi,Itepula,24
+52,67,10,Male,Mbozi,Itepula,17
+108,116,21,Female,Mbozi,Itepula,90
+73,78,11,Male,Mbozi,Itepula,25
+75,91,11,Male,Mbozi,Itepula,34
+81,87,9,Male,Mbozi,Itepula,45
+71,84.5,9,Female,Mbozi,Itepula,26
+79,92,20,Female,Mbozi,Itepula,48
+70,81,20,Male,Mbozi,Itepula,30
+76,78,9,Female,Mbozi,Itepula,40
+75,96,13,Female,Mbozi,Itepula,38
+73,98,19,Male,Mbozi,Msanyila,38
+79,90,10,Female,Mbozi,Msanyila,39
+68,77,8,Male,Mbozi,Msanyila,26
+55.5,66,8,Female,Mbozi,Msanyila,17
+59,67,8,Male,Mbozi,Msanyila,22
+76,89,10,Male,Mbozi,Msanyila,37
+76,83,10,Female,Mbozi,Msanyila,35
+69,77,8,Male,Mbozi,Msanyila,24
+77,89,9,Female,Mbozi,Msanyila,39
+79,90,19,Female,Mbozi,Msanyila,43
+73.5,81,13,Female,Mbozi,Msanyila,37
+65,76,10,Female,Mbozi,Msanyila,19
+61,73,8,Male,Mbozi,Msanyila,20
+77,85,16,Female,Mbozi,Msanyila,35
+65,75,6,Male,Mbozi,Msanyila,27
+55,87,6,Female,Mbozi,Msanyila,18
+71,96,6,Female,Mbozi,Msanyila,43
+62,67,21,Male,Mbozi,Msanyila,26
+89.5,107,21,Female,Mbozi,Msanyila,55
+57,74,8,Female,Mbozi,Msanyila,21
+53,62.5,6,Male,Mbozi,Msanyila,13.5
+50,65,6,Male,Mbozi,Msanyila,15
+70,71,6,Female,Mbozi,Msanyila,29
+71.5,83.5,11,Male,Mbozi,Msanyila,27
+64,75,11,Male,Mbozi,Msanyila,28
+89,97,12,Female,Mbozi,Msanyila,57
+61,72,8,Male,Mbozi,Msanyila,21
+91.5,108,20,Female,Mbozi,Msanyila,65
+84,102,20,Female,Mbozi,Msanyila,57.5
+60,65,8,Female,Mbozi,Msanyila,21
+84,97,18,Female,Mbozi,Msanyila,50
+63,75,8,Male,Mbozi,Msanyila,25
+79,79,22,Female,Mbozi,Msanyila,44
+82,93,20,Female,Mbozi,Msanyila,51
+72,84,6,Male,Mbeya ,Izuo,37
+79,94,13,Female,Mbozi,Msanyila,48
+58,71,8,Male,Mbozi,Msanyila,25
+50,65,28,Female,Mbozi,Msanyila,14
+74,86,10,Male,Mbozi,Msanyila,35
+56,74,8,Female,Mbozi,Msanyila,20
+82,102,11,Female,Mbozi,Msanyila,50
+68,82,9,Female,Mbozi,Msanyila,35
+66,71,9,Male,Mbozi,Msanyila,26
+75,85,10,Male,Mbozi,Msanyila,37
+68,83,44,Female,Mbozi,Msanyila,35
+82,96,15,Female,Mbozi,Msanyila,38
+83,99,18,Female,Mbozi,Magamba,47
+61,78,8,Female,Mbozi,Magamba,26
+48,63,6,Male,Mbozi ,Magamba,14
+63,71,6,Female,Mbozi ,Magamba,25
+51,58,9,Female,Mbozi ,Magamba,15
+59,79,9,Female,Mbozi,Magamba,22
+66,74,9,Male,Mbozi ,Magamba,28
+62,73,8,Female,Mbozi ,Magamba,25
+78,98,15,Male,Mbozi,Msanyila,45
+77,91,15,Male,Mbozi,Msanyila,40
+72,84,10,Female,Mbozi ,Itepula,34
+65,69,10,Female,Mbozi ,Itepula,26
+65,76,11,Female,Mbozi ,Itepula,25
+61,69,11,Female,Mbozi ,Itepula,27
+78,80,12,Female,Mbozi ,Itepula,45
+72.5,84,12,Female,Mbozi ,Itepula,34
+89,90,12,Female,Mbozi ,Itepula,54
+62,78,6,Female,Mbozi ,Itepula,24
+68,77,9,Female,Mbozi,Magamba,27
+74,93,18,Female,Mbozi ,Magamba,37
+60,71,7,Female,Mbozi ,Magamba,20
+58,71,7,Female,Mbozi ,Magamba,21
+61,69,7,Female,Mbozi ,Magamba,20
+67,78,8,Female,Mbozi,Magamba,25
+63.5,76,8,Female,Mbozi,Magamba,25
+58,70,8,Female,Mbozi,Magamba,17.5
+66,80,12,Female,Mbozi,Magamba,27
+55,68.5,9,Male,Mbozi,Magamba,22
+82,99,19,Female,Mbozi,Magamba,49
+63,75,9,Female,Mbozi,Magamba,27
+76,105,19,Female,Mbozi,Magamba,42
+83,98,14,Male,Mbozi,Magamba,45
+74,96,10,Male,Mbozi,Magamba,40
+72,91,9,Male,Mbozi,Magamba,39
+72,80,8,Female,Mbozi,Magamba,30
+79,87,8,Female,Mbozi,Magamba,40
+65,86,15,Female,Mbozi,Magamba,28
+64,78,15,Male,Mbozi,Magamba,28
+51,65,6,Male,Mbozi,Magamba,15
+51,87,6,Male,Mbozi,Magamba,15
+60,80,7,Female,Mbozi,Magamba,24
+51,67,6,Female,Mbozi,Magamba,15.5
+58,72,6,Female,Mbozi,Magamba,24
+65,84,6,Male,Mbozi,Magamba,29
+68,88,8,Male,Mbozi,Magamba,29
+66,78,6,Male,Mbozi,Magamba,28
+57,68,6,Female,Mbozi,Magamba,17
+53,56,12,Female,Mbozi,Magamba,17
+60,73,11,Female,Mbozi,Magamba,26
+94,104,16,Female,Mbozi,Magamba,68
+72,89,13,Male,Mbozi ,Magamba,33
+77,98,13,Female,Mbozi ,Magamba,40
+55,63,11,Female,Mbozi ,Magamba,17
+51,63,8,Female,Mbozi ,Magamba,15
+79,103,9,Male,Mbozi,Magamba,48
+51,58,11,Female,Mbozi ,Magamba,14
+49.5,59,7,Male,Mbozi,Magamba,15
+57,65,7,Male,Mbozi,Magamba,22
+51,52,6,Male,Mbozi,Magamba,16
+61,70,6,Male,Mbozi,Magamba,21.5
+57,69,8,Male,Mbozi,Magamba,23
+48.5,54,6,Male,Mbozi,Magamba,15
+97,106,17,Female,Mbozi,Magamba,60
+67,74,14,Male,Mbozi,Magamba,31.5
+76,85,20,Female,Mbozi,Magamba,34
+64,70,9,Female,Mbozi ,Magamba,28
+60,82,9,Male,Mbozi ,Magamba,27
+72,87,8,Male,Mbozi,Magamba,30
+51,57,8,Female,Mbozi,Iganya,16
+63,74,8,Female,Mbozi,Magamba,19
+56,64.5,8,Male,Mbozi,Magamba,17
+67,68,8,Male,Mbozi,Magamba,16.5
+64.5,77,9,Male,Mbozi,Magamba,24
+66,77,10,Male,Mbozi,Magamba,27
+66.5,72,8,Male,Mbozi,Magamba,23
+88,108,30,Female,Mbozi,Magamba,54
+61.5,72,7,Female,Mbozi,Magamba,24
+60.5,71,12,Female,Mbozi,Magamba,25
+67,80,11,Female,Mbozi,Magamba,22.5
+70,78,18,Male,Mbozi,Magamba,29
+80,83,24,Female,Mbozi,Magamba,40
+87,101,32,Male,Mbozi,Magamba,53
+81,91.5,32,Female,Mbozi,Magamba,44
+63.5,73.5,16,Female,Mbozi,Magamba,27
+89,96,22,Female,Mbozi,Magamba,55
+91,101,20,Male,Mbozi,Magamba,60
+80,89,28,Female,Mbozi,Magamba,40
+48,61,9,Female,Mbozi,Magamba,15
+72,84,9,Female,Mbozi,Magamba,35
+77,88,9,Female,Mbozi,Magamba,38
+66,87,9,Male,Mbozi,Magamba,28
+58.5,65,9,Female,Mbozi,Magamba,18
+51,61.5,6,Male,Mbozi,Magamba,16
+72,105,14,Female,Mbozi,Magamba,37
+69,81,16,Female,Mbozi,Magamba,27
+64,83,10,Male,Mbozi,Magamba,27
+52,56,6,Male,Mbozi,Iganya,16
+63,62,6,Male,Mbozi,Iganya,22
+54,57.5,8,Male,Mbozi,Iganya,17
+58,67,9,Male,Mbozi,Iganya,23
+50,58,7,Male,Mbozi,Iganya,12
+71,94,19,Female,Mbozi,Iganya,30
+71,77,9,Male,Mbozi,Iganya,32
+68.5,79.5,28,Female,Mbozi,Iganya,27.5
+74,73,8,Female,Mbozi ,Iganya,31
+66,68,8,Female,Mbozi ,Iganya,28
+62,68,8,Female,Mbozi ,Iganya,24
+52,57,7,Female,Mbozi ,Iganya,17
+48,55,7,Female,Mbozi ,Iganya,13.5
+44,55,7,Female,Mbozi ,Iganya,9
+67,73,10,Female,Mbozi,Iganya,19.5
+69,80,12,Female,Mbozi,Iganya,28
+60,65,9,Female,Mbozi ,Iganya,22
+51,68,8,Male,Mbozi ,Iganya,14
+58,64,8,Male,Mbozi ,Iganya,21
+67,69,7,Male,Mbozi ,Iganya,28
+54,58,7,Male,Mbozi ,Iganya,18
+69,72,7,Male,Mbozi ,Iganya,29
+68,79,9,Female,Mbozi,Iganya,32
+71,77,9,Male,Mbozi,Iganya,34
+64.5,76,9,Female,Mbozi,Iganya,25
+63,72,10,Male,Mbozi,Iganya,25
+64.5,75.5,10,Male,Mbozi,Iganya,27
+59,64,10,Female,Mbozi,Iganya,19
+70,74,10,Male,Mbozi,Iganya,35
+63,78,10,Female,Mbozi,Iganya,25
+51,57,6,Female,Mbozi ,Iganya,15
+60,66,13,Male,Mbozi,Iganya,19
+78,88,7,Male,Mbozi ,Iganya,41
+70,78,12,Female,Mbozi,Iganya,38
+69,76,8,Female,Mbozi,Iganya,31
+72,96,18,Female,Mbozi ,Iganya,48
+54,71,8,Male,Mbozi,Iganya,20
+72,83,13,Female,Mbozi,Iganya,35
+70,80,9,Female,Mbozi,Iganya,32
+62,66,10,Male,Mbozi,Iganya,25.5
+60,71,10,Female,Mbozi,Iganya,25
+60,65,9,Male,Mbozi,Iganya,19
+65,72,11,Female,Mbeya,Iyunga Mapinduzi,22
+78,99,14,Female,Mbeya,Njelenje,44
+61,73,7,Male,Mbeya,Isangati,40
+67,79,8,Male,Mbozi,Magamba,29
+57,70,5,Female,Mbeya,Isangati,19
+59,65,7,Male,Mbeya,Shuwa,24
+48,56,6,Male,Mbozi,Msanyila,12
+50,53,6,Male,Mbozi,Msanyila,12
+50,52,6,Male,Mbozi,Msanyila,11
+53,60,6,Male,Mbozi,Msanyila,16
+72,92,12,Female,Mbozi,Magamba,37
+55,67,8,,Mbozi,Magamba,15.5
+60,73,8,Female,Mbozi,Magamba,21
+38,48,11,Male,Mbozi ,Magamba,8
+43,45,6,Female,Mbozi ,Magamba,7.5
+73,98,13,Female,Mbozi ,Magamba,39
+56,62,6,Female,Mbozi,Magamba,18
+57,63,6,Male,Mbozi,Magamba,20
+60,64,6,Male,Mbozi,Magamba,20
+71,84,15,Female,Mbozi,Magamba,36
+52,61,8,Male,Mbozi,Magamba,17
+80,93,23,Female,Mbozi,Magamba,47
+54,55,6,Female,Mbozi,Magamba,15
+51,56,6,Male,Mbozi,Magamba,15
+50,56,6,Female,Mbozi,Magamba,13.5
+49,58,6,Male,Mbozi,Magamba,13
+46,55,7,,Mbozi,Iganya,12.5
+58,62,5,Female,Mbozi ,Iganya,17
+57,59,8,Female,Mbozi,Magamba,19
+72,105,12,Female,Mbozi,Magamba,37
+47,59,6,Male,Mbozi ,Iganya,14
+96,117,16,Female,Mbozi ,Iganya,74
+54.5,69.5,6,Female,Mbozi,Iganya,17
+56,60,7,Female,Mbozi,Iganya,15
+62,70,6,Female,Mbozi,Iganya,22
+54,57,6,Male,Mbozi,Iganya,14
+55,65,6,Male,Mbeya,Mjele,15
+57,65,6,Female,Mbeya,Mjele,20
+65,81,6,Male,Mbeya,Mjele,30
+60,72,4,Female,Mbeya,Isangati,20
+55,56,6.5,Female,Mbeya,Iyunga Mapinduzi,27
+56,67,4,Male,Mbeya,Iyunga Mapinduzi,21
+56,59,4,Male,Mbeya,Iyunga Mapinduzi,22
+61,68,4,Male,Mbeya,Iyunga Mapinduzi,26
+66,73,8,Male,Mbeya,Shuwa,25
+45,52,4,Female,Mbeya,Shuwa,10
+52,45,4,Male,Mbeya,Shuwa,9
+43,52,4,Male,Mbeya,Shuwa,9
+98,111,18,Female,Mbozi,Itepula,66
+65,72,6,Female,Mbozi,Msanyila,20
+54,56,6,Female,Mbozi,Msanyila,15
+54,64,6,Male,Mbozi,Msanyila,16
+68,84,10,Female,Mbozi,Msanyila,34
+61.5,68,8,Male,Mbozi,Msanyila,23
+57,67,6,Male,Mbozi,Msanyila,15
+79,96,14,Female,Mbozi,Msanyila,45
+55,75,5,Male,Mbozi,Msanyila,10
+52,64,5,Male,Mbozi,Msanyila,14
+52,67,5,Male,Mbozi,Msanyila,13.5
+66,85,16,Female,Mbozi,Msanyila,25
+61.5,73,10,Female,Mbozi,Msanyila,22
+58,71,5,Male,Mbozi,Msanyila,22
+55,57,6,Female,Mbozi,Magamba,16
+55,67,6,Female,Mbozi,Magamba,14.5
+52,64,5,Female,Mbozi,Magamba,18
+45,64,7,Female,Mbozi,Msanyila,11
+51,70,6,Male,Mbozi,Msanyila,16
+70,91,8,Female,Mbozi,Msanyila,31
+41,43,9,Female,Mbozi ,Magamba,7
+82,90,12,Female,Mbeya,Mjele,46.5
+80,103,20,Female,Mbeya,Njelenje,46
