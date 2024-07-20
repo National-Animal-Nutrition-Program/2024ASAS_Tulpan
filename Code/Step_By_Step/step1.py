@@ -4,7 +4,7 @@
 print('\n>>> Step 1: Data cleaning\n')
 
 # remove rows with missing values and reset the row index
-dataset.dropna(ignore_index=True)
+dataset = dataset.dropna(ignore_index=True)
 
 # find duplicate rows
 dups = dataset.duplicated()
